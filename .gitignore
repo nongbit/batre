@@ -1,0 +1,63 @@
+# Project Documents
+document/
+
+# Android Studio & IntelliJ
+# -------------------------
+.idea/
+*.iml
+.gradle/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+cmake-build-*/
+output.json
+
+# Android Build Outputs
+# ---------------------
+**/build/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Kotlin
+# ------
+.kotlin/
+kotlin-daemon-embeddable-*.jar
+
+# VS Code
+# -------
+.vscode/
+*.code-workspace
+
+# Sublime Text
+# ------------
+*.sublime-project
+*.sublime-workspace
+*.url
+
+# OS & System Files
+# -----------------
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.directory
+
+# Keystore & Signing
+# ----------------------------------------------------------------
+*.jks
+*.keystore
+*.p12
+*.properties
+!gradle.properties # gradle.properties biasanya aman kecuali ada password di dalamnya
+
+# Gradle Wrapper
+# --------------
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Log Files
+# ---------
+*.log
