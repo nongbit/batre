@@ -67,14 +67,9 @@ Batre registers a dynamic `BroadcastReceiver` for the `ACTION_BATTERY_CHANGED` i
 4. Build the project:
    `cd /path/to/batre/ && ./gradlew assembleDebug`
 
-### Contribution Guidelines
-1. Fork the repository.
-2. Create a Feature Branch (git checkout -b feature/AmazingFeature).
-3. Commit your changes (git commit -m 'Add some AmazingFeature').
-4. Push to the branch (git push origin feature/AmazingFeature).
-5. Open a Pull Request.
+## License
 
----
+MIT
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
