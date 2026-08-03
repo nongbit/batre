@@ -70,10 +70,3 @@ Batre registers a dynamic `BroadcastReceiver` for the `ACTION_BATTERY_CHANGED` i
 ## License
 
 MIT
-
-## License
-Distributed under the MIT License. See LICENSE for more information.
-
-## Contact
-Developer: nongbit ([https://github.com/nongbit](https://github.com/nongbit))
-Project Link: [https://github.com/nongbit/batre](https://github.com/nongbit/batre)
